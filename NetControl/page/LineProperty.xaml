@@ -1,0 +1,135 @@
+﻿<Page x:Class="NetControl.LineProperty"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetControl"
+        mc:Ignorable="d"
+        Height="400" Width="200" Background="White" Loaded="Page_Loaded">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="35*"/>
+                <RowDefinition Height="63*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid >
+                <Label Content="编号:" FontSize="12"></Label>
+            </Grid>
+            <Grid  Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inputid" FontSize="12" Width="126" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" LostFocus="Inputid_LostFocus"></TextBox>
+                <TextBlock Name="validate_ID" Foreground="Red" Visibility="Collapsed" Text="编号重复" FontSize="12" Margin="70,5,0,0"/>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Label Content="名称:" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inpname" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25" LostFocus="Inpname_LostFocus"></TextBox>
+                <TextBlock Name="validate_Name" Foreground="Red" Visibility="Collapsed" Text="名称重复" Margin="70,5,0,0"/>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Label Content="粗糙度:" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inptex" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <Label Content="管径:" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inpdiame" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" Width="38" Height="24" FontSize="11">
+                    <TextBlock Text="(mm)" HorizontalAlignment="Center"/>
+                </Label>
+            </Grid>
+
+            <Grid Grid.Row="4">
+                <Label Content="长度：" FontSize="12"/>
+            </Grid>
+            <Grid Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Margin="0">
+                <TextBox Name="inpwidth" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" >
+                    <TextBlock Text="  (米)" HorizontalAlignment="Center"/>
+                </Label>
+            </Grid>
+            <Grid Grid.Row="5">
+                <Label Content="材质：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2">
+                <ComboBox Name="material" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"
+                          DisplayMemberPath="Name" SelectedValuePath="Tag" SelectionChanged="Material_SelectionChanged">
+                </ComboBox>
+            </Grid>
+            <Grid Grid.Row="6">
+                <Label Content="摩擦系数：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="coefficient" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+            <Grid Grid.Row="7">
+                <Label Content="质量流量：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="flow" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,3" Background="LightGray" >
+                    <TextBlock Text="(Kg/s) " HorizontalAlignment="Center" />
+                </Label>
+            </Grid>
+            <Grid Grid.Row="8">
+                <Label Content="壁薄：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="8" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="thickness" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" >
+                    <TextBlock Text=" (mm)" HorizontalAlignment="Center" />
+                </Label>
+            </Grid>
+            <Grid Grid.Row="9">
+                <Label Content="比摩阻：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="frictional" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+            <Grid Grid.Row="10">
+                <Label Content="压降Pa：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="10" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="pa" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="92" Height="25"></TextBox>
+                <Label Margin="88,0,0,2" Background="LightGray"  Width="35" Height="25">
+                    <TextBlock Text=" (Pa)" HorizontalAlignment="Center"/>
+                </Label>
+            </Grid>
+            <Grid Grid.Row="11">
+                <Label Content="压缩因子：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="11" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="compress" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+
+
+            <Grid Grid.Row="12" Grid.Column="1" Grid.ColumnSpan="2">
+                <Button Name="submit" Margin="20,0,44,0" Content="保存" Click="Submit_Click" Width="50" Height="30"
+                        HorizontalAlignment="Center" VerticalAlignment="Top"></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

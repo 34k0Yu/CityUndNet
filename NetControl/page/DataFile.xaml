@@ -1,0 +1,23 @@
+﻿<Window x:Class="NetControl.DataFile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetControl"
+        mc:Ignorable="d"
+        Title="导出数据表" Height="198.565" Width="260.084" Loaded="Window_Loaded"
+        WindowStartupLocation="CenterScreen" UseLayoutRounding="True" ResizeMode="CanResize"
+        Icon="pack://application:,,,/image/demoicon.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <ComboBox MaxDropDownHeight="100" Name="tables" Width="200" Height="30" DisplayMemberPath="Name" SelectedValuePath="Tag" SelectionChanged="Tables_SelectionChanged"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Button Content="确定" Width="50" Height="30" Click="Button_Click"></Button>
+        </Grid>
+    </Grid>
+</Window>

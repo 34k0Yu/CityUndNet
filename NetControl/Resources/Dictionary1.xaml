@@ -1,0 +1,491 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:NetControl"
+                    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" mc:Ignorable="d">
+    <local:inttoVisibleConvert x:Key="inttoVisibleConvert"></local:inttoVisibleConvert>
+    <local:LegendShow_Convert x:Key="LegendShow_Convert"></local:LegendShow_Convert>
+    <local:LegendShow_Convert_1 x:Key="LegendShow_Convert_1"></local:LegendShow_Convert_1>
+
+
+    <ControlTemplate x:Key="UserControlControlTemplate1" TargetType="{x:Type UserControl}">
+        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}" Padding="{TemplateBinding Padding}" SnapsToDevicePixels="True">
+            <Grid Background="White" VerticalAlignment="Top">
+                <Grid Margin="0" Visibility="{Binding Legend_mode, ConverterParameter=1, Converter={StaticResource inttoVisibleConvert},RelativeSource={RelativeSource TemplatedParent}}" VerticalAlignment="Top">
+                    <TextBlock HorizontalAlignment="Left" Margin="29,12,0,0" TextWrapping="Wrap" Text="图例" VerticalAlignment="Top" FontSize="24"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="96,19,0,0" TextWrapping="Wrap" Text="单位" VerticalAlignment="Top" FontSize="16"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="133,19,0,0" TextWrapping="Wrap" Text="（Pa）" VerticalAlignment="Top" FontSize="16"/>
+                    <StackPanel Margin="0,55,0,20" VerticalAlignment="Top">
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFFF0000" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="1">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFFF9900" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap"  VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="2">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFFFCC00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="3">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFFFFF00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap"  VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="4">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFCCFF00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap"  VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="5">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF99FF00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="6">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF00FF00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="7">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF00FFFF" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap"  VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="8">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF0099FF" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="9">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF0000FF" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="10">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+                <Grid Margin="0" Visibility="{Binding Legend_mode, ConverterParameter=2, Converter={StaticResource inttoVisibleConvert},RelativeSource={RelativeSource TemplatedParent}}" Height="Auto" VerticalAlignment="Top">
+                    <TextBlock HorizontalAlignment="Left" Margin="29,12,0,0" TextWrapping="Wrap" Text="图例" VerticalAlignment="Top" FontSize="24"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="96,19,0,0" TextWrapping="Wrap" Text="单位" VerticalAlignment="Top" FontSize="16"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="133,19,0,0" TextWrapping="Wrap" Text="（度）" VerticalAlignment="Top" FontSize="16"/>
+                    <StackPanel Margin="0,55,0,20" VerticalAlignment="Top">
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFFF0000" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="1">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFFF9900" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap"  VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="2">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFFFCC00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="3">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFFFFF00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap"  VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="4">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FFCCFF00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap"  VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="5">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF99FF00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="6">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF00FF00" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="7">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF00FFFF" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap"  VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="8">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF0099FF" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="9">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                        <Grid Height="auto">
+                            <Rectangle Fill="#FF0000FF" HorizontalAlignment="Left" Margin="42,0,0,0" Width="82" VerticalAlignment="Center" Height="25"/>
+                            <TextBlock HorizontalAlignment="Left" Margin="133,0,10,0" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="16">
+                                <TextBlock.Text>
+                                    <MultiBinding Converter="{StaticResource LegendShow_Convert_1}" ConverterParameter="10">
+                                        <Binding Path="Legend_Minimum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Maximum" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_count" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step1" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step2" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step3" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step4" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step5" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step6" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step7" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step8" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step9" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_Step10" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                        <Binding Path="Legend_mode" RelativeSource="{RelativeSource TemplatedParent}"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+
+            </Grid>
+        </Border>
+    </ControlTemplate>
+</ResourceDictionary>

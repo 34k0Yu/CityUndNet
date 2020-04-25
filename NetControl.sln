@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetControl", "NetControl\NetControl.csproj", "{EA35B05A-9607-4896-80E4-D987CC1E4308}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NetControl Installer", "NetControl Installer\NetControl Installer.vdproj", "{C16D5378-2D89-4A9F-9A88-91CE903E4863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA35B05A-9607-4896-80E4-D987CC1E4308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA35B05A-9607-4896-80E4-D987CC1E4308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA35B05A-9607-4896-80E4-D987CC1E4308}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EA35B05A-9607-4896-80E4-D987CC1E4308}.Debug|x64.Build.0 = Debug|Any CPU
+		{EA35B05A-9607-4896-80E4-D987CC1E4308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA35B05A-9607-4896-80E4-D987CC1E4308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA35B05A-9607-4896-80E4-D987CC1E4308}.Release|x64.ActiveCfg = Release|x64
+		{EA35B05A-9607-4896-80E4-D987CC1E4308}.Release|x64.Build.0 = Release|x64
+		{C16D5378-2D89-4A9F-9A88-91CE903E4863}.Debug|Any CPU.ActiveCfg = Debug
+		{C16D5378-2D89-4A9F-9A88-91CE903E4863}.Debug|x64.ActiveCfg = Debug
+		{C16D5378-2D89-4A9F-9A88-91CE903E4863}.Release|Any CPU.ActiveCfg = Release
+		{C16D5378-2D89-4A9F-9A88-91CE903E4863}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC7FB488-7C84-4CAE-ACF4-A742EADF51C5}
+	EndGlobalSection
+EndGlobal

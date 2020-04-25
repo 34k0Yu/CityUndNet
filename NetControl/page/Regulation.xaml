@@ -1,0 +1,90 @@
+﻿<Page x:Class="NetControl.Regulation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NetControl"
+      mc:Ignorable="d" 
+      Height="280" Width="200" Background="White">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="30*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="57*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid >
+                <Label Content="编号:" FontSize="12"></Label>
+            </Grid>
+            <Grid  Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inputid" FontSize="12" Width="126" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" LostFocus="Inputid_LostFocus"></TextBox>
+                <TextBlock Name="validate_ID" Foreground="Red" Visibility="Collapsed" Text="编号重复" FontSize="12" Margin="70,5,0,0"/>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Label Content="名称:" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inpname" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25" LostFocus="Inpname_LostFocus"></TextBox>
+                <TextBlock Name="validate_Name" Foreground="Red" Visibility="Collapsed" Text="名称重复" Margin="70,5,0,0"/>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Label Content="进口压强：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inptpa" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <Label Content="进口流量："></Label>
+            </Grid>
+            <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inptflu" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+
+            <Grid Grid.Row="4">
+                <Label Content="进口温度："></Label>
+            </Grid>
+            <Grid Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inpttem" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+
+            <Grid Grid.Row="5">
+                <Label Content="出口压强："></Label>
+            </Grid>
+            <Grid Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="exportpa" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+
+            <Grid Grid.Row="6">
+                <Label Content="出口流量："></Label>
+            </Grid>
+            <Grid Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="exportflu" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+
+            <Grid Grid.Row="7">
+                <Label Content="出口温度："></Label>
+            </Grid>
+            <Grid Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="exporttem" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25"></TextBox>
+            </Grid>
+            <Grid Grid.Row="8" Grid.Column="1">
+                <Button Name="submit" Margin="0,0,0,10" Content="保存" Click="Submit_Click" Width="50" Height="30"></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

@@ -1,0 +1,108 @@
+﻿<Page x:Class="NetControl.Firegas"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:NetControl"
+      mc:Ignorable="d" 
+      Height="260" Width="200" Background="White">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="27*"/>
+                <RowDefinition Height="28*"/>
+                <RowDefinition Height="42*"/>
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid >
+                <Label Content="编号:" FontSize="12"></Label>
+            </Grid>
+            <Grid  Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inputid" FontSize="12" Width="126" Height="25" HorizontalAlignment="Left" VerticalAlignment="Top" LostFocus="Inputid_LostFocus"></TextBox>
+                <TextBlock Name="validate_ID" Foreground="Red" Visibility="Collapsed" Text="编号重复" FontSize="12" Margin="70,5,0,0"/>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Label Content="名称:" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="inpname" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Height="25" LostFocus="Inpname_LostFocus"></TextBox>
+                <TextBlock Name="validate_Name" Foreground="Red" Visibility="Collapsed" Text="名称重复" Margin="70,5,0,0"/>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Label Content="甲烷:" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="methane" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" >
+                    <TextBlock Text="  (%)" HorizontalAlignment="Center" Height="18" Width="34"/>
+                </Label>
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <Label Content="乙烷：" FontSize="12"/>
+            </Grid>
+            <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Margin="0">
+                <TextBox Name="ethane" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" >
+                    <TextBlock Text="  (%)" HorizontalAlignment="Center" Height="18" Width="36"/>
+                </Label>
+            </Grid>
+            <Grid Grid.Row="4">
+                <Label Content="丙烷：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="propane" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" >
+                    <TextBlock Text="  (%)" HorizontalAlignment="Center" Height="18" Width="31"/>
+                </Label>
+            </Grid>
+
+            <Grid Grid.Row="5">
+                <Label Content="氮气：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="nitrogen" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" >
+                    <TextBlock Text="  (%)" HorizontalAlignment="Center" Height="18" Width="34"/>
+                </Label>
+            </Grid>
+            <Grid Grid.Row="6">
+                <Label Content="氢气：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="hydrogen" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" >
+                    <TextBlock Text="  (%)" HorizontalAlignment="Center" Height="18" Width="34"/>
+                </Label>
+            </Grid>
+
+            <Grid Grid.Row="7">
+                <Label Content="二氧化碳：" FontSize="12"></Label>
+            </Grid>
+            <Grid Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2">
+                <TextBox Name="carbon" FontSize="12" HorizontalAlignment="Left" VerticalAlignment="Top" Width="90" Height="25"></TextBox>
+                <Label Margin="90,0,0,2" Background="LightGray" >
+                    <TextBlock Text="  (%)" HorizontalAlignment="Center" Height="18" Width="34" Margin="0"/>
+                </Label>
+            </Grid>
+
+            <Grid Grid.Row="8" Grid.Column="1">
+                <Button Name="submit" Margin="0,0,0,10" Content="保存" Click="Submit_Click" Width="50" Height="30"></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

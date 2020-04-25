@@ -1,0 +1,30 @@
+﻿<Window x:Class="NetControl.Newcreat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NetControl"
+        mc:Ignorable="d"
+        Title="新建地图" Height="182.4" Width="333.561"
+        WindowStartupLocation="CenterOwner" UseLayoutRounding="False" ResizeMode="NoResize" Loaded="Page_Loaded">
+    <Grid Height="242" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="95*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Label x:Name="center" Content="选择中心点：" Width="70" HorizontalAlignment="Left" Margin="11,0,0,0"></Label>
+            <ComboBox x:Name="selectcent" Width="100" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="90,0,0,0"
+                      DisplayMemberPath="Name" SelectedValuePath="Id" SelectionChanged="Selectcent_SelectionChanged"></ComboBox>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Label x:Name="layer" Content="选 择 图 层：" Width="70" HorizontalAlignment="Left" Margin="11,0,0,0"></Label>
+            <ComboBox x:Name="selectlayer" Width="100" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="90,0,0,0"
+                      DisplayMemberPath="Name" SelectedValuePath="Tag" SelectionChanged="Selectlayer_SelectionChanged"></ComboBox>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Button Width="50" Height="32" Content="确定" HorizontalAlignment="Center" VerticalAlignment="Top" Click="Button_Click"/>
+        </Grid>
+    </Grid>
+</Window>

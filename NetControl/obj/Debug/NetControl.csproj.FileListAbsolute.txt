@@ -1,0 +1,1144 @@
+E:\program\NetControl\NetControl\bin\Debug\NetControl.exe.config
+E:\program\NetControl\NetControl\bin\Debug\NetControl.exe
+E:\program\NetControl\NetControl\bin\Debug\NetControl.pdb
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Data.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Images.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Data.v18.1.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\obj\Debug\MainWindow.baml
+E:\program\NetControl\NetControl\obj\Debug\MainWindow.g.cs
+E:\program\NetControl\NetControl\obj\Debug\App.g.cs
+E:\program\NetControl\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+E:\program\NetControl\NetControl\obj\Debug\NetControl.g.resources
+E:\program\NetControl\NetControl\obj\Debug\NetControl.Properties.Resources.resources
+E:\program\NetControl\NetControl\obj\Debug\NetControl.csproj.GenerateResource.cache
+E:\program\NetControl\NetControl\obj\Debug\NetControl.csproj.CoreCompileInputs.cache
+E:\program\NetControl\NetControl\obj\Debug\NetControl.csproj.CopyComplete
+E:\program\NetControl\NetControl\obj\Debug\NetControl.exe
+E:\program\NetControl\NetControl\obj\Debug\NetControl.pdb
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+E:\program\NetControl\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.xml
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\program\NetControl\NetControl\obj\Debug\MapMark.g.cs
+E:\program\NetControl\NetControl\obj\Debug\MapMark.baml
+E:\program\NetControl\NetControl\obj\Debug\Resources\Styles.baml
+E:\program\NetControl\NetControl\obj\Debug\page\DataFile.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\Device.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\LineProperty.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\Select.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\DataFile.baml
+E:\program\NetControl\NetControl\obj\Debug\page\Device.baml
+E:\program\NetControl\NetControl\obj\Debug\page\LineProperty.baml
+E:\program\NetControl\NetControl\obj\Debug\page\Select.baml
+E:\program\NetControl\NetControl\obj\Debug\page\SelectLinePipProp.baml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\obj\Debug\page\Warming.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\Warming.baml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.dll
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+E:\program\NetControl\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.xml
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\NetControl\obj\Debug\NetControl.exe.config
+E:\program\NetControl\NetControl\obj\Debug\page\ultimate.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\ultimate.baml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\NetControl.exe.config
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\NetControl.exe
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\NetControl.pdb
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Data.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Images.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Data.v18.1.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Controls.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Controls.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Controls.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Controls.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.csprojAssemblyReference.cache
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.exe.config
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\DataFile.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\Device.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\LineProperty.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\MainWindow.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\MapMark.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\Select.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\Warming.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\ultimate.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\App.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\DataFile.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\Device.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\LineProperty.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\MainWindow.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\MapMark.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\Resources\Styles.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\Select.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\SelectLinePipProp.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\Warming.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\page\ultimate.baml
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.g.resources
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.Properties.Resources.resources
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.csproj.GenerateResource.cache
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.csproj.CoreCompileInputs.cache
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.csproj.CopyComplete
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.exe
+D:\NetControl5-8\NetControl\NetControl\obj\Debug\NetControl.pdb
+E:\program\5-8\NetControl\NetControl\bin\Debug\NetControl.exe.config
+E:\program\5-8\NetControl\NetControl\bin\Debug\NetControl.exe
+E:\program\5-8\NetControl\NetControl\bin\Debug\NetControl.pdb
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Data.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Images.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Data.v18.1.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.xml
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.csprojAssemblyReference.cache
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.exe.config
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\DataFile.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\Device.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\LineProperty.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\MainWindow.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\MapMark.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\Select.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\Warming.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\ultimate.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\App.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\DataFile.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\Device.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\LineProperty.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\MainWindow.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\MapMark.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\Resources\Styles.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\Select.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\SelectLinePipProp.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\Warming.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\page\ultimate.baml
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.g.resources
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.Properties.Resources.resources
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.csproj.GenerateResource.cache
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.csproj.CoreCompileInputs.cache
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.csproj.CopyComplete
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.exe
+E:\program\5-8\NetControl\NetControl\obj\Debug\NetControl.pdb
+E:\program\NetControl\NetControl\obj\Debug\LoadingControl.g.cs
+E:\program\NetControl\NetControl\obj\Debug\LoadingControl.baml
+E:\program\NetControl\NetControl\obj\Debug\page\Regulation.baml
+E:\program\NetControl\NetControl\obj\Debug\page\Regulation.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\Firegas.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\Firegas.baml
+E:\program\NetControl\NetControl\obj\Debug\page\Valvepro.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\Valvepro.baml
+E:\program\NetControl\Code\NetControl\bin\Debug\NetControl.exe.config
+E:\program\NetControl\Code\NetControl\bin\Debug\NetControl.exe
+E:\program\NetControl\Code\NetControl\bin\Debug\NetControl.pdb
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Images.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.xml
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.csprojAssemblyReference.cache
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.exe.config
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Firegas.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\LoadingControl.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\DataFile.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Device.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\LineProperty.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\MainWindow.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\MapMark.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Regulation.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Select.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Warming.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\ultimate.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Valvepro.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\App.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Firegas.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\LoadingControl.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\DataFile.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Device.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\LineProperty.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\MainWindow.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\MapMark.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Regulation.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\Resources\Styles.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Select.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\SelectLinePipProp.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Warming.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\ultimate.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Valvepro.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.g.resources
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.Properties.Resources.resources
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.csproj.GenerateResource.cache
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.csproj.CoreCompileInputs.cache
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.csproj.CopyComplete
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.exe
+E:\program\NetControl\Code\NetControl\obj\Debug\NetControl.pdb
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Newcreat.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\page\Newcreat.baml
+E:\program\NetControl\Code\NetControl\bin\Debug\GisCalculate.dll
+E:\program\NetControl\Code\NetControl\obj\Debug\LegendControl.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\LegendControl.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\Resources\Dictionary1.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\App.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\Sight.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\Sight.baml
+E:\program\NetControl\Code\NetControl\obj\Debug\class\GraphCanvas.g.cs
+E:\program\NetControl\Code\NetControl\obj\Debug\class\GraphCanvas.baml
+D:\管网\Code\NetControl\bin\Debug\NetControl.exe.config
+D:\管网\Code\NetControl\bin\Debug\NetControl.exe
+D:\管网\Code\NetControl\bin\Debug\NetControl.pdb
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Images.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\GisCalculate.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.dll
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\管网\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Controls.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Controls.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Controls.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Controls.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\管网\Code\NetControl\obj\Debug\NetControl.csprojAssemblyReference.cache
+D:\管网\Code\NetControl\obj\Debug\NetControl.exe.config
+D:\管网\Code\NetControl\obj\Debug\App.baml
+D:\管网\Code\NetControl\obj\Debug\class\GraphCanvas.g.cs
+D:\管网\Code\NetControl\obj\Debug\LegendControl.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\Newcreat.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\Firegas.g.cs
+D:\管网\Code\NetControl\obj\Debug\LoadingControl.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\DataFile.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\Device.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\LineProperty.g.cs
+D:\管网\Code\NetControl\obj\Debug\MainWindow.g.cs
+D:\管网\Code\NetControl\obj\Debug\MapMark.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\Regulation.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\Select.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\Warming.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\ultimate.g.cs
+D:\管网\Code\NetControl\obj\Debug\page\Valvepro.g.cs
+D:\管网\Code\NetControl\obj\Debug\Sight.g.cs
+D:\管网\Code\NetControl\obj\Debug\App.g.cs
+D:\管网\Code\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\管网\Code\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+D:\管网\Code\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+D:\管网\Code\NetControl\obj\Debug\class\GraphCanvas.baml
+D:\管网\Code\NetControl\obj\Debug\LegendControl.baml
+D:\管网\Code\NetControl\obj\Debug\Resources\Dictionary1.baml
+D:\管网\Code\NetControl\obj\Debug\page\Newcreat.baml
+D:\管网\Code\NetControl\obj\Debug\page\Firegas.baml
+D:\管网\Code\NetControl\obj\Debug\LoadingControl.baml
+D:\管网\Code\NetControl\obj\Debug\page\DataFile.baml
+D:\管网\Code\NetControl\obj\Debug\page\Device.baml
+D:\管网\Code\NetControl\obj\Debug\page\LineProperty.baml
+D:\管网\Code\NetControl\obj\Debug\MainWindow.baml
+D:\管网\Code\NetControl\obj\Debug\MapMark.baml
+D:\管网\Code\NetControl\obj\Debug\page\Regulation.baml
+D:\管网\Code\NetControl\obj\Debug\Resources\Styles.baml
+D:\管网\Code\NetControl\obj\Debug\page\Select.baml
+D:\管网\Code\NetControl\obj\Debug\page\SelectLinePipProp.baml
+D:\管网\Code\NetControl\obj\Debug\page\Warming.baml
+D:\管网\Code\NetControl\obj\Debug\page\ultimate.baml
+D:\管网\Code\NetControl\obj\Debug\page\Valvepro.baml
+D:\管网\Code\NetControl\obj\Debug\Sight.baml
+D:\管网\Code\NetControl\obj\Debug\NetControl.g.resources
+D:\管网\Code\NetControl\obj\Debug\NetControl.Properties.Resources.resources
+D:\管网\Code\NetControl\obj\Debug\NetControl.csproj.GenerateResource.cache
+D:\管网\Code\NetControl\obj\Debug\NetControl.csproj.CoreCompileInputs.cache
+D:\管网\Code\NetControl\obj\Debug\NetControl.csproj.CopyComplete
+D:\管网\Code\NetControl\obj\Debug\NetControl.exe
+D:\管网\Code\NetControl\obj\Debug\NetControl.pdb
+E:\New Folder\Code\Code\NetControl\bin\Debug\NetControl.exe.config
+E:\New Folder\Code\Code\NetControl\bin\Debug\NetControl.exe
+E:\New Folder\Code\Code\NetControl\bin\Debug\NetControl.pdb
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Images.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\GisCalculate.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.xml
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.csprojAssemblyReference.cache
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.exe.config
+E:\New Folder\Code\Code\NetControl\obj\Debug\App.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\class\GraphCanvas.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\LegendControl.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Newcreat.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Firegas.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\LoadingControl.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\DataFile.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Device.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\LineProperty.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\MainWindow.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\MapMark.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Regulation.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Select.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Warming.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\ultimate.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Valvepro.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\Sight.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\App.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+E:\New Folder\Code\Code\NetControl\obj\Debug\class\GraphCanvas.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\LegendControl.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\Resources\Dictionary1.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Newcreat.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Firegas.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\LoadingControl.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\DataFile.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Device.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\LineProperty.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\MainWindow.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\MapMark.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Regulation.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\Resources\Styles.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Select.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\SelectLinePipProp.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Warming.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\ultimate.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\page\Valvepro.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\Sight.baml
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.g.resources
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.Properties.Resources.resources
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.csproj.GenerateResource.cache
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.csproj.CoreCompileInputs.cache
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.csproj.CopyComplete
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.exe
+E:\New Folder\Code\Code\NetControl\obj\Debug\NetControl.pdb
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\NetControl.exe.config
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\NetControl.exe
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\NetControl.pdb
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Images.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\GisCalculate.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.xml
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Controls.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.csprojAssemblyReference.cache
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.exe.config
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\App.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\class\GraphCanvas.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\LegendControl.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Newcreat.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Firegas.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\LoadingControl.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\DataFile.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Device.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\LineProperty.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\MainWindow.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\MapMark.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Regulation.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Select.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Warming.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\ultimate.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Valvepro.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\Sight.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\App.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\class\GraphCanvas.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\LegendControl.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\Resources\Dictionary1.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Newcreat.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Firegas.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\LoadingControl.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\DataFile.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Device.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\LineProperty.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\MainWindow.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\MapMark.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Regulation.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\Resources\Styles.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Select.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\SelectLinePipProp.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Warming.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\ultimate.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\page\Valvepro.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\Sight.baml
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.g.resources
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.Properties.Resources.resources
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.csproj.GenerateResource.cache
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.csproj.CoreCompileInputs.cache
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.csproj.CopyComplete
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.exe
+E:\program\NetControl\Code\Code\NetControl\obj\Debug\NetControl.pdb
+C:\Work\pipe\Code\NetControl\obj\Debug\App.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\class\GraphCanvas.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\LegendControl.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Newcreat.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Firegas.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\LoadingControl.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\DataFile.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Device.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\LineProperty.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\MapMark.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Regulation.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Select.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Warming.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\ultimate.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Valvepro.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\Sight.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\App.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Work\pipe\Code\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+C:\Work\pipe\Code\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+C:\Work\pipe\Code\NetControl\bin\Debug\NetControl.exe.config
+C:\Work\pipe\Code\NetControl\obj\Debug\MainWindow.g.cs
+C:\Work\pipe\Code\NetControl\bin\Debug\NetControl.exe
+C:\Work\pipe\Code\NetControl\bin\Debug\NetControl.pdb
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Images.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Themes.Office2016White.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\GisCalculate.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Controls.v18.1.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Core.v18.1.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Ribbon.v18.1.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Mvvm.v18.1.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Printing.v18.1.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Layout.v18.1.Core.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.Grid.v18.1.Core.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.DocumentViewer.v18.1.Core.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Xpf.LayoutControl.v18.1.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Controls.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Controls.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Controls.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Controls.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Core.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Ribbon.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Printing.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.Grid.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.DocumentViewer.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Xpf.LayoutControl.v18.1.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\Work\pipe\Code\NetControl\obj\Debug\class\GraphCanvas.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\LegendControl.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\Resources\Dictionary1.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Newcreat.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Firegas.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\LoadingControl.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\DataFile.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Device.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\LineProperty.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\MainWindow.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\MapMark.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Regulation.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\Resources\Styles.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Select.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\SelectLinePipProp.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Warming.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\ultimate.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\page\Valvepro.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\Sight.baml
+C:\Work\pipe\Code\NetControl\obj\Debug\NetControl.g.resources
+C:\Work\pipe\Code\NetControl\obj\Debug\NetControl.Properties.Resources.resources
+C:\Work\pipe\Code\NetControl\obj\Debug\NetControl.csproj.GenerateResource.Cache
+C:\Work\pipe\Code\NetControl\obj\Debug\NetControl.exe
+C:\Work\pipe\Code\NetControl\obj\Debug\NetControl.pdb
+C:\Work\pipe\Code\NetControl\obj\Debug\NetControl.csprojResolveAssemblyReference.cache
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\NetControl.csprojAssemblyReference.cache
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\App.baml
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\class\GraphCanvas.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\LegendControl.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\Newcreat.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\Firegas.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\LoadingControl.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\DataFile.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\Device.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\LineProperty.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\MainWindow.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\MapMark.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\Regulation.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\Select.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\SelectLinePipProp.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\Warming.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\ultimate.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\page\Valvepro.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\Sight.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\App.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\NetControl_MarkupCompile.cache
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\NetControl_MarkupCompile.lref
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\NetControl.exe
+E:\program\NetControl\core\NetControl\NetControl\obj\Debug\NetControl.pdb
+E:\program\NetControl\NetControl\obj\Debug\App.baml
+E:\program\NetControl\NetControl\obj\Debug\class\GraphCanvas.g.cs
+E:\program\NetControl\NetControl\obj\Debug\LegendControl.g.cs
+E:\program\NetControl\NetControl\obj\Debug\page\Newcreat.g.cs
+E:\program\NetControl\NetControl\obj\Debug\Sight.g.cs
+E:\program\NetControl\NetControl\bin\Debug\GisCalculate.dll
+E:\program\NetControl\NetControl\obj\Debug\class\GraphCanvas.baml
+E:\program\NetControl\NetControl\obj\Debug\LegendControl.baml
+E:\program\NetControl\NetControl\obj\Debug\Resources\Dictionary1.baml
+E:\program\NetControl\NetControl\obj\Debug\page\Newcreat.baml
+E:\program\NetControl\NetControl\obj\Debug\Sight.baml
+E:\program\NetControl\NetControl\obj\Debug\NetControl.csprojAssemblyReference.cache
